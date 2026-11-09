@@ -1,0 +1,6 @@
+{
+  "name": "YAPIN",
+  "description": "Connect. Chat. Create. Modern Discord-style community chat, voice channels, and direct messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
